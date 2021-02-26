@@ -25,4 +25,4 @@ Your app is ready to be deployed!
 Snapshot of the final result
 
 ![counter1](https://user-images.githubusercontent.com/79240323/109336072-c0d99d00-7817-11eb-995d-d526e6eca9ef.png)
-![counter2](https://user-images.githubusercontent.com/79240323/109336077-c2a36080-7817-11eb-9f8b-05687bd762fc.png)
+![counter2](https://user-images.githubusercontent.com/79240323/109336359-1dd55300-7818-11eb-990f-c67202c57afb.png)
