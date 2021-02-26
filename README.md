@@ -1,3 +1,6 @@
+Basic React App with using React hooks. A simple increment counter and decrement counter and using useState to update the counter. 
+Code for this resides on /src/App.js. Please have a look
+
 In the project directory, you can run:
 
 ### `npm start`
